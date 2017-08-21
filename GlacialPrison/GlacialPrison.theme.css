@@ -13,9 +13,9 @@ IMPORTANT: Links must be HTTPS!
 */
 /* ========== CUSTOMIZABLE VARIABLES ========== */
 :root {
-	--main-color: #2780e6;
-	--hover-color: #1f66b8;
-	--channel-color: #ccffff;
+	--main-color: #dfc2ef;
+	--hover-color: #d9f4fc;
+	--channel-color: #fcd9f4;
 	--background-blur: 0px;
 	--background-brightness: 100%;
 }	/* ORIGINAL: --main-color: #2780e6;--hover-color: #1f66b8;--channel-color: #ccffff;--background-blur: 0px;--background-brightness: 100%; (in case you want to change it back) */
@@ -31,12 +31,12 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-	background-image: url(https://puu.sh/w1xZT/27dd03a07c.png) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
+	background-image: url(http://orig01.deviantart.net/3e36/f/2014/340/2/3/bee_and_puppycats___wallpaper_by_equifox-d6tg1e2.png) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
 }	/* ORIGINAL: https://puu.sh/w1xZT/27dd03a07c.png (in case you want to change it back) */
 
 /* ========== CUSTOMIZABLE DM IMAGE ========== */
 .guilds-wrapper .guilds .friends-icon::after {
-	background-image: url(https://puu.sh/w1y3a/7e878418b3.gif) !important; /* IMPORTANT: For best result, use even dimensions */
+	background-image: url(https://res.cloudinary.com/teepublic/image/private/s--MVFDxuD8--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_313,q_90,w_313/v1446248098/production/designs/312203_1.jpg) !important; /* IMPORTANT: For best result, use even dimensions */
 }	/* ORIGINAL: https://puu.sh/w1y3a/7e878418b3.gif (in case you want to change it back) */
 
 /* ========== CUSTOMIZABLE PROFILE HEADER ========== */
