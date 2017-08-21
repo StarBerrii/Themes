@@ -13,10 +13,10 @@ IMPORTANT: Links must be HTTPS!
 */
 /* ========== CUSTOMIZABLE VARIABLES ========== */
 :root {
-	--main-color: #2780e6;
-	--hover-color: #1f66b8;
-	--channel-color: #ccffff;
-	--background-blur: 0px;
+	--main-color: #ffe8f6;
+	--hover-color: #dbd5ef;
+	--channel-color: #c2dfef;
+	--background-blur: 20px;
 	--background-brightness: 100%;
 }	/* ORIGINAL: --main-color: #2780e6;--hover-color: #1f66b8;--channel-color: #ccffff;--background-blur: 0px;--background-brightness: 100%; (in case you want to change it back) */
 
@@ -31,7 +31,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-	background-image: url(https://puu.sh/w1xZT/27dd03a07c.png) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/ee/3a/cf/ee3acfb88084bc46cd31d536fa8ec52a.jpg) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
 }	/* ORIGINAL: https://puu.sh/w1xZT/27dd03a07c.png (in case you want to change it back) */
 
 /* ========== CUSTOMIZABLE DM IMAGE ========== */
@@ -43,7 +43,7 @@ body::after,
 .theme-light .user-popout header.header, #user-profile-modal .header {
 	background: transparent !important;
 	background-size: cover !important;
-	background-image: url(https://puu.sh/sAO0x/fdecb6c24b.png) !important;
+	background-image: url(http://rs1269.pbsrc.com/albums/jj588/CutePixelIcons/Cute%20Pixel%20Icons/strawberry_icon_by_plasticumbrella-d4beut7.gif~c200) !important;
 }	/* ORIGINAL: https://puu.sh/sAO0x/fdecb6c24b.png (in case you want to change it back) */
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
