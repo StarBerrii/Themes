@@ -13,10 +13,10 @@ IMPORTANT: Links must be HTTPS!
 */
 /* ========== CUSTOMIZABLE VARIABLES ========== */
 :root {
-	--main-color: #2780e6;
-	--hover-color: #1f66b8;
-	--channel-color: #ccffff;
-	--background-blur: 0px;
+	--main-color: #f5e5fc;
+	--hover-color: #ffe8f6;
+	--channel-color: #000000;
+	--background-blur: 5px;
 	--background-brightness: 100%;
 }	/* ORIGINAL: --main-color: #2780e6;--hover-color: #1f66b8;--channel-color: #ccffff;--background-blur: 0px;--background-brightness: 100%; (in case you want to change it back) */
 
@@ -31,12 +31,12 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-	background-image: url(https://puu.sh/w1xZT/27dd03a07c.png) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/ee/3a/cf/ee3acfb88084bc46cd31d536fa8ec52a.jpg) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
 }	/* ORIGINAL: https://puu.sh/w1xZT/27dd03a07c.png (in case you want to change it back) */
 
 /* ========== CUSTOMIZABLE DM IMAGE ========== */
 .guilds-wrapper .guilds .friends-icon::after {
-	background-image: url(https://puu.sh/w1y3a/7e878418b3.gif) !important; /* IMPORTANT: For best result, use even dimensions */
+	background-image: url(http://www196.lunapic.com/do-not-link-here-use-hosting-instead/15033473281104?3108582618) !important; /* IMPORTANT: For best result, use even dimensions */
 }	/* ORIGINAL: https://puu.sh/w1y3a/7e878418b3.gif (in case you want to change it back) */
 
 /* ========== CUSTOMIZABLE PROFILE HEADER ========== */
